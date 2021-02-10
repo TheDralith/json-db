@@ -1,12 +1,16 @@
 {
   "cartes": [
     {
-      "numero": "03",
+      "numero": "01",
       "errortype": "404"
     },
     {
-      "numero": "04",
-      "errotype": 404
+      "numero": "02",
+      "errortype": "475"
+    },
+    {
+      "numero": "03",
+      "errortype": "None"
     }
   ]
 }
