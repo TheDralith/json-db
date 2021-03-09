@@ -94,6 +94,11 @@
       "Numero de carte": "19",
       "Statut carte": "Erreurs",
       "Code erreur": "3-7-10-12-13-14-15"
+    },
+    {
+      "Numero de carte": "20",
+      "Statut carte": "Erreurs",
+      "Code erreur": "2-3-6-7-9-10-12-13-14-15-17-18-19-20-21-24"
     }
   ]
 }
