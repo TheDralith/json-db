@@ -1,16 +1,20 @@
 {
-  "cartes": [
-    {
-      "numero": "02",
-      "errortype": "None"
-    },
-    {
-      "numero": "02",
-      "errortype": "475"
-    },
-    {
-      "numero": "03",
-      "errortype": "None"
-    }
+  "Numero de carte": 2,
+  "Statut carte": "Erreurs detect\u00e9es",
+  "Code erreur": [
+    3,
+    6,
+    7,
+    9,
+    10,
+    12,
+    13,
+    14,
+    15,
+    17,
+    18,
+    19,
+    21,
+    24
   ]
 }
