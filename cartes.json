@@ -3,19 +3,7 @@
     {
       "Numero de carte": "1",
       "Statut carte": "Erreurs",
-      "Code erreur": [
-        3,
-        7,
-        9,
-        12,
-        13,
-        14,
-        15,
-        18,
-        19,
-        21,
-        24
-      ]
+      "Code erreur": "34678910131415161718212324"
     }
   ]
 }
