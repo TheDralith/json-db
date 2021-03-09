@@ -1,6 +1,6 @@
 {
-  "Numero de carte": 2,
-  "Statut carte": "Erreurs detect\u00e9es",
+  "Numero de carte": 1,
+  "Statut carte": "Erreurs",
   "Code erreur": [
     3,
     6,
@@ -11,9 +11,9 @@
     13,
     14,
     15,
-    17,
     18,
     19,
+    20,
     21,
     24
   ]
