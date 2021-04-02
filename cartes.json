@@ -1,11 +1,6 @@
 {
   "cartes": [
     {
-      "Numero de carte": "7",
-      "Statut carte": "Incorrect",
-      "Code erreur": "6-7-10-12-13-14-15-18-20"
-    },
-    {
       "Numero de carte": "8",
       "Statut carte": "Incorrect",
       "Code erreur": "3-6-9-10-12-13-14-15-18-19-24"
@@ -99,6 +94,11 @@
       "Numero de carte": "26",
       "Statut carte": "Incorrect",
       "Code erreur": "6-7-10-13-14-17"
+    },
+    {
+      "Numero de carte": "27",
+      "Statut carte": "Incorrect",
+      "Code erreur": "3-6-7-13-14-17-20"
     }
   ]
 }
