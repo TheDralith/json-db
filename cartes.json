@@ -3,17 +3,7 @@
     {
       "Numero de carte": "1",
       "Statut carte": "Incorrect",
-      "Code erreur": "2-6-7-12-13-14-15-20"
-    },
-    {
-      "Numero de carte": "2",
-      "Statut carte": "Incorrect",
-      "Code erreur": "3-6-10-12-13-14-15-17-18-20"
-    },
-    {
-      "Numero de carte": "3",
-      "Statut carte": "Incorrect",
-      "Code erreur": "3-13-14-20"
+      "Code erreur": "7-12-13-14-15-18-19-20"
     }
   ]
 }
